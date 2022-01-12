@@ -133,6 +133,11 @@ main {
   margin-right: 5px;
 }
 
+footer p{
+    text-align: center;
+    background-color: #f3f1ff;
+}
+
 /* Media Queries */
 @media only screen and (max-width: 688px) {
   .container {
